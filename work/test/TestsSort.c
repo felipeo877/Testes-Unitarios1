@@ -45,7 +45,7 @@ TEST(Sort, TesteSucesso_Bubble)
 TEST(Sort, TesteSucesso_Insertion)
 {
   int length = 9;
-  int a[] = {2147483647, 8, 9, 6, 3, 2, 1, 4, -2147483648};
+  int a[] = {2, 8, 9, 6, 3, 2, 1, 4, -3};
   char *type = "On2";
   int algorithm = INSERTION;
 
